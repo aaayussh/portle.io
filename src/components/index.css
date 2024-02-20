@@ -1,0 +1,18 @@
+.title {
+    text-align: center; 
+    margin-top: 50px;
+  }
+
+  .editor{
+    height:650px;
+    width:auto;
+    border:3px solid rgb(141,183, 241);
+    margin-left:80px;
+    margin-right: 80px;
+    background:white;
+
+}
+.button-container{
+    align-items: right;
+    text-align: center;
+}
